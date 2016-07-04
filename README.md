@@ -10,6 +10,7 @@
 </ul>
 
 
+<h2>Below is a sample PHP code</h2>
 <code>
 <?php
 	echo "This is my first PHP code snipt.";
