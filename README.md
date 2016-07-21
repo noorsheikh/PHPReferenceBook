@@ -16,3 +16,9 @@
 	echo "This is my first PHP code snipt.";
 ?>
 </code>
+
+<h2>Objectives Covered</h2>
+<ul>
+	<li>Basics</li>
+	<li>Functions</li>
+</ul>
